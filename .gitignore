@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!data/
+!ref/
+!ref/mm10/
+!ref/GRCh38/
